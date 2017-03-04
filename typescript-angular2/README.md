@@ -1,4 +1,4 @@
-## imobile_api@1.0.1-SNAPSHOT.201703040924
+## imobile_api@1.0.1-SNAPSHOT.201703040930
 
 ### Building
 
@@ -19,7 +19,7 @@ navigate to the folder of your consuming project and run one of next commando's.
 _published:_
 
 ```
-npm install imobile_api@1.0.1-SNAPSHOT.201703040924 --save
+npm install imobile_api@1.0.1-SNAPSHOT.201703040930 --save
 ```
 
 _unPublished (not recommended):_
